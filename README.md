@@ -1,6 +1,13 @@
-@font-face {
-   font-family: sansation;
-   src: url(sansation_light.woff)
-   Rutos
+<!DOCTYPE html>
+<html>
+<head>
+   
+</head>
+<body>
+
+<h1>Rutos</h1>
+
+</body>
+</html>
 =====================
 
