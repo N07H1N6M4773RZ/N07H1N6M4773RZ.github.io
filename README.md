@@ -1,24 +1,3 @@
-<html>
-<head>
-   
-</head>
-<body>
-
-<h1>Rutos</h1>
-
-</body>
-</html>
-=====================
-
-<p1>we are a  collective or creators who produce music, visual art and anything else we want really. the group consists of 5 members at the moment.<p1>
-   
-<b1> •Mo -
-  Mo is a multi-instrumentalist, singer/songwriter that started making music back in high school. he's been evolving ever since. mo has released a lot of music scattered around the internet but to make things simple [here](https://open.spotify.com/artist/0V8LWLEPPCInaMQtUxnm9P?si=qOmgcfdVS4m_0ZUXBmI0Gg) is a link to his spotify page.
-   
-   •Alex/Jay -
-   tbc..
-   
-   •Wyatt/ptr -<html>
 <head>
    
 </head>
