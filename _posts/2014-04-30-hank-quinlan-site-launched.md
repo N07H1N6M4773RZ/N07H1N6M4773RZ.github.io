@@ -1,7 +1,4 @@
 ---
-layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
-date: 2014-04-30
+date: 2019-25-2019
 ---
-
-Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+the site is soon to be launched, i'll keep stuff up to date here. -wyatt
