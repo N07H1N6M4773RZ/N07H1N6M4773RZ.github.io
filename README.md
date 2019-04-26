@@ -16,8 +16,7 @@
     
     
    •Alex/Jay -
-   tbc..
-   
+   Jay is a mysterious soul. Often found drinking or smoking, a lyric of his that should sum up a bit of Jay is "...always drunk or high so i can't feel no pain." Jay has described his work and himself in this personal quote "I make music on the mood I’m in,I have to like the beat ima rap too than I start writing and I write whatever comes to me and I try to balance lyrics with the vibe of the beat" and that's that for Jay.
    
    •Wyatt/ptr -
    That's not really his name, but he goes by many names so who's really keeping count? He's a graphic designer that's made plenty of things for the Rutos since the beginning and continues to produce cover art for the Rutos. His secondary specialty is clothing design and has made graphics for a couple brands as of April 2019 [¹](https://www.instagram.com/goldenadvantage) [²](https://www.instagram.com/demolish.wear/)
