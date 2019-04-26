@@ -10,7 +10,7 @@
 
 <h2>A collective or creators who produce music, visual art and anything else we want. The group consists of 5 members at the moment.<h2>
    
-  •Mo -
+  <p1>•Mo -
   Mo is a multi-instrumentalist, singer/songwriter that started making music back in high school. he's been evolving ever since. mo has released a lot of music scattered around the internet but to make things simple [here](https://open.spotify.com/artist/0V8LWLEPPCInaMQtUxnm9P?si=qOmgcfdVS4m_0ZUXBmI0Gg) is a link to his spotify page.
     
    •Alex/Jay -
@@ -24,3 +24,4 @@
    
    •Jaime -
    Jaime is the most recent addition to the Rutos. Jaime is a photographer and videographer and that's pretty much all I know about the guy, he's pescetarian, what a lad.
+   <p1>
