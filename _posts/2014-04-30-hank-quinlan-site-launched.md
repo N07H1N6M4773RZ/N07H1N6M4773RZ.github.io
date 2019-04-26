@@ -1,6 +1,6 @@
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
-date: 2014-04-30
+title: "Wyatt, Rutos, Launches Site"
+date: 2019-04-26
 ---
 
-Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+the site is up and running but i'm not done with it yet. i'll post semi-consistantly here to let y'all know whats going on.
