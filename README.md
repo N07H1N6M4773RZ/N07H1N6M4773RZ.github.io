@@ -6,7 +6,6 @@
 <h1>Rutos</h1>
 
 </body>
-</html>
 
 <h2>A collective or creators who produce music, visual art and anything else we want. The group consists of 5 members at the moment.</h2>
    
