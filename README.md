@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+<!DOCTYPE html>
+<html>
+>>>>>>> parent of d9c32b0... Update README.md
 <head>
    
 </head>
@@ -9,6 +14,7 @@
 </html>
 =====================
 
+<<<<<<< HEAD
 <p1>we are a  collective or creators who produce music, visual art and anything else we want really. the group consists of 5 members at the moment.<p1>
    
 <b1> •Mo -
@@ -32,3 +38,5 @@
    
    •Jaime -
    Jaime is the most recent addition to the Rutos. Jaime is a photographer and videographer and that's pretty much all I know about the guy, he's escetarian, what a lad.
+=======
+>>>>>>> parent of d9c32b0... Update README.md
